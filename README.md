@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bryan !
 - 👀 I’m interested in web development and design.
-- 🌱 I’m currently learning React native and I plan on learning creative development in the future.
+- 🌱 I’m currently learning React native and Typescript and I plan on learning creative development in the future.
 - 💞️ I’m looking to collaborate on websites and apps with challenging and fun designs.
 - 📫 How to reach me : LinkedIn is over [here](https://www.linkedin.com/in/bryan-makendi) and mail is bryan.makendi@gmail.com
 
